@@ -1,0 +1,37 @@
+Required Skills
+Prepare the Data
+	Use Extract, Transfer, Load (ETL) processes to prepare data for queries.
+
+	Import data from a MySQL database into HDFS using Sqoop
+
+	Export data to a MySQL database from HDFS using Sqoop
+
+	Move data between tables in the metastore
+
+	Transform values, columns, or file formats of incoming data before analysis
+
+Provide Structure to the Data
+Use Data Definition Language (DDL) statements to create or alter structures in the metastore for use by Hive and Impala.
+
+	Create tables using a variety of data types, delimiters, and file formats
+
+	Create new tables using existing tables to define the schema
+
+	Improve query performance by creating partitioned tables in the metastore
+
+	Alter tables to modify existing schema
+
+	Create views in order to simplify queries
+
+Data Analysis
+Use Query Language (QL) statements in Hive and Impala to analyze data on the cluster.
+
+	Prepare reports using SELECT commands including unions and subqueries
+
+	Calculate aggregate statistics, such as sums and averages, during a query
+
+	Create queries against multiple data sources by using join commands
+
+	Transform the output format of queries by using built-in functions
+
+	Perform queries across a group of rows using windowing functions
