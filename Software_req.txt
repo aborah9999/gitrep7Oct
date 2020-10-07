@@ -1,0 +1,7 @@
+Java
+Git
+Oracle
+
+32GB Ram, 12 CPU
+
+2AZ, 2 VPC
